@@ -68,10 +68,6 @@ Die Ergebnisse werden in JSON-Format gespeichert und enthalten:
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe [LICENSE](LICENSE) für Details.
 
-## 🤝 Beitragen
-
-Beiträge sind willkommen! Bitte lesen Sie [CONTRIBUTING.md](CONTRIBUTING.md) für Details zum Prozess.
-
 ## 👨‍💻 Autor
 
 👤 **Jairo Morales**
