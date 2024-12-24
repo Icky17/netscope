@@ -1,0 +1,58 @@
+{
+    "192.168.1.1": {
+        "ip": "192.168.1.1",
+        "timestamp": "2024-12-24T15:11:15.938093",
+        "open_ports": [
+            {
+                "port": 53,
+                "state": "open",
+                "service": "domain"
+            },
+            {
+                "port": 80,
+                "state": "open",
+                "service": "http"
+            }
+        ],
+        "total_open_ports": 2
+    },
+    "192.168.1.74": {
+        "ip": "192.168.1.74",
+        "timestamp": "2024-12-24T15:12:29.692086",
+        "open_ports": [
+            {
+                "port": 21,
+                "state": "open",
+                "service": "ftp"
+            },
+            {
+                "port": 22,
+                "state": "open",
+                "service": "ssh"
+            },
+            {
+                "port": 445,
+                "state": "open",
+                "service": "microsoft-ds"
+            },
+            {
+                "port": 80,
+                "state": "open",
+                "service": "http"
+            }
+        ],
+        "total_open_ports": 4
+    },
+    "192.168.1.181": {
+        "ip": "192.168.1.181",
+        "timestamp": "2024-12-24T15:14:17.728186",
+        "open_ports": [
+            {
+                "port": 445,
+                "state": "open",
+                "service": "microsoft-ds"
+            }
+        ],
+        "total_open_ports": 1
+    }
+}

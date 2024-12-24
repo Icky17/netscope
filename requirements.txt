@@ -1,0 +1,18 @@
+# Core dependencies
+ipaddress>=1.0.23
+python-nmap>=0.7.1
+
+# Type checking
+typing-extensions>=4.5.0
+
+# Optional dependencies for future features
+# Uncomment if implementing additional features
+# scapy>=2.5.0          # For advanced packet manipulation
+# rich>=13.3.5          # For enhanced terminal output
+# click>=8.1.3          # For advanced CLI features
+
+# Development dependencies
+pytest>=7.3.1
+black>=23.3.0
+flake8>=6.0.0
+mypy>=1.3.0
